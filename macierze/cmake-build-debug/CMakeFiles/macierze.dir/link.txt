@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\macierze.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\macierze.dir/objects.a @CMakeFiles\macierze.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\macierze.dir/objects.a -Wl,--no-whole-archive -o macierze.exe -Wl,--out-implib,libmacierze.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\macierze.dir\linklibs.rsp
