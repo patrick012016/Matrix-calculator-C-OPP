@@ -1,3 +1,0 @@
-C:/Github/macierze/cmake-build-debug/CMakeFiles/macierze.dir
-C:/Github/macierze/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Github/macierze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
